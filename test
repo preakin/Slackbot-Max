@@ -1,0 +1,17 @@
+double lum = 2;
+double val;
+
+void setup(){
+serial.lnprint(9800);
+pinMode(10, OUTPUT);
+}
+
+void loop (){
+val=analogREAD(lum);
+if 
+digitalWrite (10, HIGH);
+
+else
+digitalWrite (10, LOW);
+
+}
